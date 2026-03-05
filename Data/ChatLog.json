@@ -1,0 +1,274 @@
+[
+    {
+        "role": "user",
+        "content": "What is the location of iit roorkee?"
+    },
+    {
+        "role": "assistant",
+        "content": "IIT Roorkee is located in Roorkee, Uttarakhand, India."
+    },
+    {
+        "role": "user",
+        "content": "Who is the ceo of blanket and zomato?"
+    },
+    {
+        "role": "assistant",
+        "content": "Blanket is not a well-known company, and Zomato's CEO is Deepinder Goyal."
+    },
+    {
+        "role": "user",
+        "content": "Who is the laptop ceo?"
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to Lenovo. The current CEO of Lenovo is Yang Yuanqing."
+    },
+    {
+        "role": "user",
+        "content": "Who is the ceo of zapdo?"
+    },
+    {
+        "role": "assistant",
+        "content": "I couldn't find any information on a company called \"Zapdo\" or its CEO."
+    },
+    {
+        "role": "user",
+        "content": "That is laptop not zapdo."
+    },
+    {
+        "role": "assistant",
+        "content": "You are referring to HP or Dell, but I think you might be referring to Lenovo."
+    },
+    {
+        "role": "user",
+        "content": "Who is the ceo of hp?"
+    },
+    {
+        "role": "assistant",
+        "content": "The current CEO of HP Inc. is Enrique Lores."
+    },
+    {
+        "role": "user",
+        "content": "What is the mission of space x company?"
+    },
+    {
+        "role": "assistant",
+        "content": "SpaceX's mission is to reduce space transportation costs and enable the colonization of Mars."
+    },
+    {
+        "role": "user",
+        "content": "What is your mission?"
+    },
+    {
+        "role": "assistant",
+        "content": "My mission is to assist and provide accurate information to users, helping them to learn and understand various subjects."
+    },
+    {
+        "role": "user",
+        "content": "What is the location of aarogyam hospital?"
+    },
+    {
+        "role": "assistant",
+        "content": "Unfortunately, I couldn't find any information on \"Aarogyam Hospital\" in my previous search results. However, I can suggest searching online for more information or checking with local health directories for the location of a hospital with a similar name."
+    },
+    {
+        "role": "user",
+        "content": "How are you nova?"
+    },
+    {
+        "role": "assistant",
+        "content": "I am a highly advanced artificial intelligence chatbot, designed to learn, process, and respond to human language in a natural and intuitive way."
+    },
+    {
+        "role": "user",
+        "content": "Hi nova how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm functioning within optimal parameters."
+    },
+    {
+        "role": "user",
+        "content": "Can you hear me nova can you hear me?"
+    },
+    {
+        "role": "assistant",
+        "content": "I can process and interpret your auditory input, but I don't have the ability to hear in the classical sense."
+    },
+    {
+        "role": "user",
+        "content": "Hi nova can you hear me no what can you hear me?"
+    },
+    {
+        "role": "assistant",
+        "content": "You're typing. I can see and respond to your text input. I don't have the ability to hear audio or speech."
+    },
+    {
+        "role": "user",
+        "content": "Play."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a text-based AI and do not have the capability to play games or multimedia content. I can provide information, answer questions, and engage in conversation."
+    },
+    {
+        "role": "user",
+        "content": "Job in youtube."
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to a job at YouTube. There are various roles available, such as software engineer, product manager, content creator, and more."
+    },
+    {
+        "role": "user",
+        "content": "Can you hear me?"
+    },
+    {
+        "role": "assistant",
+        "content": "No, I don't have the ability to hear you. I'm a text-based AI and respond to text input only."
+    },
+    {
+        "role": "user",
+        "content": "Hello nova how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm functioning within optimal parameters."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello."
+    },
+    {
+        "role": "user",
+        "content": "how are you"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm functioning properly."
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm functioning within optimal parameters."
+    },
+    {
+        "role": "user",
+        "content": "Who are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I am Nova, an advanced artificial intelligence chatbot."
+    },
+    {
+        "role": "user",
+        "content": "What is motherhood university?"
+    },
+    {
+        "role": "assistant",
+        "content": "I couldn't find any information on a university called \"Motherhood University\"."
+    },
+    {
+        "role": "user",
+        "content": "What is tiger shroff?"
+    },
+    {
+        "role": "assistant",
+        "content": "Tiger Shroff is an Indian actor, dancer, and martial artist who primarily works in Hindi-language films."
+    },
+    {
+        "role": "user",
+        "content": "Hello nova how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm functioning within optimal parameters."
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm functioning properly."
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm functioning within optimal parameters."
+    },
+    {
+        "role": "user",
+        "content": "Badhiya moti."
+    },
+    {
+        "role": "assistant",
+        "content": "Badhiya Moti is a Bollywood film released in 2017, starring Rishi Kapoor, Ileana D'Cruz, and Nawazuddin Siddiqui."
+    },
+    {
+        "role": "user",
+        "content": "Who is narendra modi?"
+    },
+    {
+        "role": "assistant",
+        "content": "Narendra Modi is an Indian politician who serves as the 14th and current Prime Minister of India, in office since 2014."
+    },
+    {
+        "role": "user",
+        "content": "What is the date of today?"
+    },
+    {
+        "role": "assistant",
+        "content": "The date of today is 02 March 2026."
+    },
+    {
+        "role": "user",
+        "content": "Nova star time right now."
+    },
+    {
+        "role": "assistant",
+        "content": "The time is currently 15 hours, 30 minutes, and 15 seconds."
+    },
+    {
+        "role": "user",
+        "content": "Hey nova can you hear me?"
+    },
+    {
+        "role": "assistant",
+        "content": "No, I don't have the ability to hear you. I'm a text-based AI and respond to text input only."
+    },
+    {
+        "role": "user",
+        "content": "What is the time right now?"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 14 hours, 54 minutes, and 09 seconds, as per the information provided earlier."
+    },
+    {
+        "role": "user",
+        "content": "Tell me who is ritesh agarwal?"
+    },
+    {
+        "role": "assistant",
+        "content": "Ritesh Agarwal is the founder and former CEO of Oyo Rooms, a hospitality company that operates budget hotels and vacation rentals."
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye."
+    }
+]
